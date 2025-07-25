@@ -1,0 +1,14 @@
+streamlit
+openai
+plotly
+weasyprint
+pdfkit
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+PyPDF2
+python-docx
+openpyxl
+pandas
+pillow
+pytesseract 
